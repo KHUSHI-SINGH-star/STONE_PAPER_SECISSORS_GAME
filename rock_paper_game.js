@@ -14,7 +14,7 @@ const drawgame = () => {
 const showWinner = (userwin) => {
     if (userwin) {
 
-        msg.innerText = `you win! ${userchoiceid} beats ${computerchoice}`;
+        msg.innerText = `you win! `;
         userscore++;
         userscorePara.innerText = userscore;
         msg.style.backgroundColor = "green";
