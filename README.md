@@ -47,15 +47,19 @@ Add animations for winning/losing
 Include multiple rounds or a timer mode
 
 Store high scores using local storage
+
 ---
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request to improve the game or fix issues.
+
 ---
 
 📄 License
 This project is licensed under the MIT License.
+
 ---
+
 🚀 How to Play
 Clone or download this repository:
 
