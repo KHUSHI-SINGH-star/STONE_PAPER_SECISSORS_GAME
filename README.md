@@ -1,4 +1,5 @@
 🪨📄✂️ Stone Paper Scissors Game
+
 A fun and lightweight web-based Stone Paper Scissors game built using HTML, CSS, and JavaScript. Challenge the computer and test your luck with a clean and interactive interface.
 ---
 
@@ -12,6 +13,7 @@ Score tracking for both player and computer
 Responsive design for desktop and mobile
 
 Smooth and simple gameplay
+
 ---
 
 🛠️ Built With
@@ -20,6 +22,7 @@ HTML5 – Page structure
 CSS3 – Styling and layout
 
 JavaScript – Game logic and interactivity
+
 ---
 
 📚 Rules
@@ -30,9 +33,11 @@ Scissors beats Paper
 Paper beats Stone
 
 Same choices result in a draw
+
 ---
 
 ✅ Future Improvements (Optional)
+
 Add sound effects
 
 Add animations for winning/losing
